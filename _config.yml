@@ -6,7 +6,7 @@ description: 真正的大师永远保持一颗学徒的心
 avatarTitle: 林海
 # 头像里面的描述
 avatarDesc:  努力/奋斗
-url: "http://aiyodiao.github.io"
+url: "http://aiyoyo.github.io"
 
 # Comment
 comment:
@@ -23,7 +23,7 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id:   aiyodiao
+    id:   aiyoyo
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
